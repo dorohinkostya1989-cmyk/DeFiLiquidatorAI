@@ -52,3 +52,4 @@ python main.py
 # DeFiLiquidatorAI
 AI-powered liquidation bot for Aave v3. Just describe the position in plain English — the AI executes the liquidation. Flash loans, private mempool, multi-chain.
 >>>>>>> f2881ef804e1431541291e8919b91ae599f3a799
+[![Tests](https://github.com/dorohinkostya1989-cmyk/DeFiLiquidatorAI/actions/workflows/test.yml/badge.svg)](https://github.com/dorohinkostya1989-cmyk/DeFiLiquidatorAI/actions/workflows/test.yml)
